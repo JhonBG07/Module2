@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Activity_1</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="nombre_hint">Ingrese su nombre</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="fecha_hint">Ingrese su fecha de nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="telefono_hint">Ingrese su teléfono</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Ingrese email</string>
+    <string name="descripcion">Descripción del contacto</string>
+    <string name="descripcion_hint">Ingrese descripción del contacto</string>
+    <string name="button_next">Siguiente</string>
+    <string name="confirm_text">Confirmar Datos</string>
+    <string name="button_edit">Editar Datos</string>
+    <string name="title_activity_confirm_data">ConfirmDataActivity</string>
+</resources>
